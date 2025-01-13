@@ -4,7 +4,7 @@
 
 We are a team of ethical hackers who create outstanding full-stack web3 and DeFi security solutions: on-chain security monitoring, web3 SOC, smart contract security audit, layer1/layer2/bridge/dApp/wallet security audit, web3 penetration testing.
 
-Recent customers include **1inch, Compound, Yearn, Gearbox, Symbiosis, zkBob, Tokenlon**, etc.
+Decurity is a **Tier-1 smart contract auditing firm**. Recent customers include **1inch, Compound, Yearn, Gearbox, Symbiosis, Ether.Fi, Tokenlon, Clearpool, Truflation**, etc.
 Our auditors placed 2nd worldwide in the **Paradigm CTF** 2022.
 
 We have some tools of our own (and also developing an on-chain state analysis solution):
